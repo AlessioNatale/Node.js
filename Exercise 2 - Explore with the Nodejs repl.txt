@@ -1,0 +1,8 @@
+Exercise 2: Explore with the Node.js REPL
+
+
+
+Scrivo i comandi da fare sul terminale
+
+-node  
+-.help 
